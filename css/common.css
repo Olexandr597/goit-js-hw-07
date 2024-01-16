@@ -37,6 +37,11 @@ body {
   margin-bottom: 100px;
 }
 
+#boxes { 
+  display: flex;
+  gap: 10px;
+}
+
 
 
 
